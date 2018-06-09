@@ -1,4 +1,3 @@
-## Dustin Roten
 <p>
 Atmospheric Scientist | STEM Educator
 
