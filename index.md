@@ -1,6 +1,6 @@
 ## Dustin Roten
 
-Atmospheric Scientist | STEM Educator
+|| Atmospheric Scientist || STEM Educator ||
 
 ### About Me
 <p>
