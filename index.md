@@ -1,5 +1,9 @@
 <p>
-| Atmospheric Scientist | STEM Educator |
+  <center>| Graduate Student | Atmospheric Scientist | STEM Educator |</center>
+</p>
 
-<img src="https://github.com/rotendd/rotendd.github.io/blob/master/PhysicsJump.PNG" width="200" height="200" align="right">
+<p>
+  <b>Current Project:</b> Upward Bound, 2018! 
+  
+  For Statistics Students:
 </p>
