@@ -3,6 +3,7 @@
 </p>
 
 <p> **Current Project:** Upward Bound, 2018! </p>
-  
-  For Statistics students:
+
+<p>
+  For Statistics students: 
 </p>
