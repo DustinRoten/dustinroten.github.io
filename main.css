@@ -3,7 +3,7 @@ img {
 }
 
 body { 
-    background-image: url('w3css.gif');
+    background-image: "HeroImage.jpg";
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
