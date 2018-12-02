@@ -3,7 +3,7 @@ img {
 }
 
 body { 
-    background-image: "HeroImage.jpg";
+    background-image: url("HeroImage.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
