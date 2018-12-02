@@ -1,8 +1,8 @@
-img {
-    image-orientation: from-image;
-}
-
 body { 
     background-image: url("HeroImage.jpg");
     background-repeat: no-repeat;
+}
+
+img {
+    image-orientation: from-image;
 }
