@@ -1,7 +1,6 @@
 body { 
     background-image: url("HeroImage1.jpg");
     background-size:cover;
-    opacity=0.5;
 }
 
 img {
