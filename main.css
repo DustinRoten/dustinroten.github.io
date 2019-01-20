@@ -1,6 +1,7 @@
 body {
  background-image: url("HeaderImage.jpg");
  background-color: #cccccc;
+ background-repeat: no-repeat;
 }
 
 img {
