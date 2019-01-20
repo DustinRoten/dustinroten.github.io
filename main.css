@@ -1,6 +1,6 @@
 body { 
     background-image: url("HeroImage1.jpg");
-    background-size:cover;
+    background-size: 150% auto;
 }
 
 img {
