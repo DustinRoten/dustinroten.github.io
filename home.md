@@ -1,5 +1,3 @@
-![image info](55901782_2630282170333740_8803950690645835776_o.jpg)
-
 # R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
@@ -8,7 +6,7 @@ When you click the **Knit** button a document will be generated that includes bo
 
 
 
-## Including Plots
+# Including Plots
 
 You can also embed plots, for example:
 
