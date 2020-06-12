@@ -1,8 +1,10 @@
 <img align="left" src="HeaderImage.jpg" alt="Profile Image" width="100%">  
 
 # About Me
-<img align="left" src="ProfilePic.jpg" alt="Profile Image" width="200">
-I grew up in northwestern North Carolina and attended Appalachian State Univeristy (Go 'Neers!). It was there that I double majored in Physics and Mathematics. During my time as an undergraduate, I served as a research assistant in ASU's Ion Trap Laboratory under the direction of Dr. Tony Calamai. After graduating, I spent a year teaching Mathematics at Ashe County High School (where I received my own high school diploma!) and a semester teaching Physics at Wilkes Community College. I then returned to ASU to complete my M.S. in Engineering Physics and M.A. in Mathematics. Here, I worked as a graduate research assistant under the direction of Dr. Eric Marland. Much of my work was focused on sensitivity analyses using atmospheric modeling. I am now a Ph.D. student in the Atmospheric Sciences at the University of Utah, working with Dr. John Lin where I specialize in land-atmosphere interactions. In my free time I am hiking, playing various musical instruments (piano and violin/fiddle), or occasionally working along the New River back home.  
+<img align="left" src="ProfilePic.jpg" alt="Profile Image" width="200">  
+<p>
+  I am an atmospheric scientist who specializes in anthropogenic aspects of the carbon cycle. Specifically, my interests lie in the high resolution dynamics of CO<sub>2</sub> emissions from cities like Los Angeles (CA) and Salt Lake City (UT). I leverage several tools to study these emissions such as atmospheric models, ground-based measurement networks, and space-based observations. Before focusing on urban emissions, I spent time as a high school math teacher, community college physics instructor, and research assistant in a plasma diagnostics laboratory. I am now a Ph.D. candidate in Atmospheric Sciences at the University of Utah. If I'm not researching, you can catch me hiking, playing piano or violin/fiddle, or relaxing back home in North Carolina.  
+</p>
 
 <p align="center">
   <img src="Block_A.jpg" alt="App Image" width="10%">  
