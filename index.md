@@ -28,3 +28,8 @@
 * M.S. - Engineering Physics, Appalachian State University (2018)
 * M.A. - Mathematics, Appalachian State Univeristy (2018)
 * B.S. - Physics & Mathematics (2015)
+
+<footer>
+  <hr>
+  <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+</footer>
