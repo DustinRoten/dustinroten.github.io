@@ -1,6 +1,4 @@
-<div class="container">
-  <img align="left" src="HeaderImage.jpg" alt="Profile Image" width="100%">
-</div>
+<img align="left" src="HeaderImage.jpg" alt="Profile Image" width="100%">  
 
 # About Me
 <img align="left" src="ProfilePic.jpg" alt="Profile Image" width="200" style="border: 20px white"/>
