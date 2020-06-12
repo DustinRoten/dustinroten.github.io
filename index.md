@@ -3,9 +3,15 @@ I grew up in northwestern North Carolina and attended Appalachian State Univeris
 
 ## Positions
 Graduate Research Assistant - University of Utah (2018-present)
+
 Adjunct Mathematics Instructor (Online) - Forsyth Technical Community College (2020 - present)
+
 Academic Fellow - Global Change and Sustainability Center (GCSC), University of Utah (2018-2019)
+
 Graduate Research Assistant - Appalachian State University (2016-2018)
+
 Academic Preview Instructor (Mathematics) - Upward Bound, Appalachian State University (2016-2018)
+
 Mathematics Instructor - Ashe County High School (2015-2016)
+
 Adjunct Physics Instructor - Wilkes Community College (2016)
