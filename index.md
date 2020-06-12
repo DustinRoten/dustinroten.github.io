@@ -2,8 +2,8 @@
 
 # About Me
 <p align="center">
-  <img align="left" src="ProfilePic.jpg" alt="Profile Image" width="200">
-<\p>
+  <img src="ProfilePic.jpg" alt="Profile Image" width="200">
+</p>
 
 <p>
   I am an atmospheric scientist who specializes in anthropogenic aspects of the carbon cycle. Specifically, my interests lie in the high resolution dynamics of CO<sub>2</sub> emissions from cities like Los Angeles (CA) and Salt Lake City (UT). I leverage several tools to study these emissions such as atmospheric models, ground-based measurement networks, and space-based observations. Before focusing on urban emissions, I spent time as a high school math teacher, community college physics instructor, and research assistant in a plasma diagnostics laboratory. I am now a Ph.D. candidate in Atmospheric Sciences at the University of Utah. If I'm not researching, you can catch me hiking, playing piano or violin/fiddle, or relaxing back home in North Carolina.  
