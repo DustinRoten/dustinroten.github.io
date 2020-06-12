@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PAGE TITLE"
 permalink: /dustinroten.github.io/
+---
 
 # R Markdown
 
