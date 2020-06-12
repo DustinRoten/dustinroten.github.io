@@ -1,8 +1,4 @@
----
-layout: page
-title: "PAGE TITLE"
-permalink: /dustinroten.github.io/
----
+![image info](55901782_2630282170333740_8803950690645835776_o.jpg)
 
 # R Markdown
 
