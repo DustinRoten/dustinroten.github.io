@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img align="left" src="HeaderImage.jpg" alt="Profile Image" width="100%">  
 
 # About Me
