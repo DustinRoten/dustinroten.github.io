@@ -29,7 +29,7 @@
 * M.A. - Mathematics, Appalachian State Univeristy (2018)
 * B.S. - Physics & Mathematics (2015)
 
-[another page](./GoodBooks.html)
+[another page](./goodbooks.md)
 
 <hr>
 <p><font color='Gray'><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></font></p>
