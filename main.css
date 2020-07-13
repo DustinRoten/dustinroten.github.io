@@ -1,0 +1,120 @@
+body {
+  font-family: TimesNewRoman, "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  /*margin-left: 160px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+.headerImage {
+  height: 75px;
+}
+
+.profilePic {
+  position: absolute; /* Reposition logo from the natural layout */
+  z-index: 2;
+  left: 40%;
+  width :20%;
+  margin-top: -12%;
+  border: 2px solid black;
+}
+
+.profilePic img {
+  display: block;
+}
+
+.aboutMe {
+  margin: auto;
+  margin-top: 11%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 30%;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  align-content: center;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+a.button2{
+  display:inline-block;
+  padding:0.5em 3em;
+  border:0.16em solid black;
+  margin:0 0.3em 0.3em 0;
+  box-sizing: border-box;
+  text-decoration:none;
+  text-transform:uppercase;
+  font-family:'Roboto',sans-serif;
+  font-weight:400;
+  color:black;
+  text-align:center;
+  transition: all 0.15s;
+  }
+  a.button2:hover{
+  color:grey;
+  border-color:grey;
+  }
+  a.button2:active{
+  color:#BBBBBB;
+  border-color:#BBBBBB;
+  }
+  @media all and (max-width:30em){
+  a.button{
+  display:block;
+  margin:0.4em auto;}
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 20px;}
+}
